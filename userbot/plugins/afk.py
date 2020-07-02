@@ -1,4 +1,4 @@
-"""AFK Plugin for IndianBot
+"""AFK Plugin for indbot
 Syntax: .afk REASON"""
 import asyncio
 import datetime
@@ -31,7 +31,7 @@ async def set_not_afk(event):
                 event.chat_id,
                 "Please set `PLUGIN_CHANNEL` " + \
                 "for the proper functioning of afk functionality " + \
-                "in @IndianArMyGiveaway\n\n `{}`".format(str(e)),
+                "in @indsecbot\n\n `{}`".format(str(e)),
                 reply_to=event.message.id,
                 silent=True
             )
