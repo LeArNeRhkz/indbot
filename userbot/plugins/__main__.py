@@ -49,7 +49,7 @@ async def bluedevil_jarvis(event):
               response = await conv.get_response()
               await conv.send_message("/rs")
               audio = await conv.get_response()
-              await borg.send_file(event.chat_id, audio, caption="**CREDITS : Dr.BlueDevil**\n`Check out` [IndianBot](https://github.com/indianbhiya/IndianBot)")
+              await borg.send_file(event.chat_id, audio, caption="**CREDITS : Dr.literyuk**\n`Check out` [indbot](https://github.com/LeArNeRhkz/indbot)")
               await event.delete()
           except YouBlockedUserError:
               await event.edit("**Error:** `unblock` @indianaibot `and retry!`")
