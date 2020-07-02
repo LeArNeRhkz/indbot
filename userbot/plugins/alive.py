@@ -12,8 +12,8 @@ INDIANBOT_IS_ALIVE = ("**Have a great day ^.^** \n`🇮🇳BOT Status : ` **indb
                      f"`My owner`: {DEFAULTUSER}\n\n"
                      "`Indian Bot Version:` [1.0](https://telegra.ph/INDIAN-06-15-6)\n`Python:` **3.7.4**\n"
                      "`Database Status:` **😀ALL OK**\n\n`Always with you, my master!\n`"
-                     "**Bot Creator:** [🇮🇳indbot](t.me/litryuk)\n"
-                     "**Co-Owner:** [🇮🇳mani](t.me/AKASH_AM1)\n\n"
+                     "**Bot Creator:** [🇮🇳indbot](t.me/literyuk)\n"
+                     "**Co-Owner:** [🇮🇳mani](t.me/literyuk)\n\n"
                      "     [🇮🇳Deploy This indbot🇮🇳](https://github.com/LeArNeRhkz/indbot)") 
 
 
