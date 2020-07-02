@@ -1,4 +1,4 @@
-"""Check if userbot alive. If you change these, you become the gayest gay such that even the gay world will disown you."""
+"""Check if userbot alive."""
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
@@ -12,8 +12,7 @@ INDIANBOT_IS_ALIVE = ("**Have a great day ^.^** \n`🇮🇳BOT Status : ` **indb
                      f"`My owner`: {DEFAULTUSER}\n\n"
                      "`Indian Bot Version:` [1.0](https://telegra.ph/INDIAN-06-15-6)\n`Python:` **3.7.4**\n"
                      "`Database Status:` **😀ALL OK**\n\n`Always with you, my master!\n`"
-                     "**Bot Creator:** [🇮🇳indbot](t.me/literyuk)\n"
-                     "**Co-Owner:** [🇮🇳mani](t.me/literyuk)\n\n"
+                     "**Bot Creator:** [🇮🇳mani](t.me/literyuk)\n"
                      "     [🇮🇳Deploy This indbot🇮🇳](https://github.com/LeArNeRhkz/indbot)") 
 
 
@@ -23,4 +22,4 @@ async def amireallyalive(alive):
     chat = await alive.get_chat()
     await alive.delete()
     """ For .alive command, check if the bot is running.  """
-    await borg.send_message(chat, INDIANBOT_IS_ALIVE) 
+    await borg.send_message(chat, INDBOT_IS_ALIVE) 
