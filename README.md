@@ -29,8 +29,8 @@ For any query or want to know how it works join 👇👇
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/indianbhaiya/IndianBot
-cd Indianbot
+git clone https://github.com/LeArNeRhkz/indbot.git
+cd indbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
