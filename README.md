@@ -23,7 +23,7 @@ For any query or want to know how it works join 👇👇
 
 ## GET STRING SESSION FROM REPL RUN 
 
-[![Repl.it](https://img.shields.io/badge/REPL%20RUN-Run%20Online-blue.svg)](https://indianbotstringsetup.pureindialover.repl.run)
+[![Repl.it](https://img.shields.io/badge/REPL%20RUN-Run%20Online-blue.svg)](https://indbot.learnerhkz.repl.run)
 
 ### The Normal Way
 
