@@ -22,4 +22,4 @@ async def amireallyalive(alive):
     chat = await alive.get_chat()
     await alive.delete()
     """ For .alive command, check if the bot is running.  """
-    await borg.send_message(chat, INDBOT_IS_ALIVE) 
+    await borg.send_message(chat, INDIANBOT_IS_ALIVE) 
