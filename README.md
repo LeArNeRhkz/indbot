@@ -1,4 +1,4 @@
-# IndianBot The UserBot 🇮🇳
+# IndBot The UserBot 🇮🇳
 
 <p align="center">
 <img src="logo.jpg" alt="indBot">
