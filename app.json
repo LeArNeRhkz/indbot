@@ -1,7 +1,7 @@
 {
   "name": "IndianBot",
-  "description": "Userbot created by a IndianBhai and join https://t.me/IndianArMyGiveaway for any problems or support",
-  "logo": "https://telegra.ph/file/b6cd017959adc2814db5f.jpg",
+  "description": "Userbot created by a Indian and join https://t.me/indbot_off for any problems or support",
+  "logo": "https://telegra.ph/file/b6cd017959adc2814db5fff.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/indianbhaiya/IndianBot/",
+  "repository": "https://github.com/LeArNeRhkz/indbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -43,7 +43,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally",
+      "description": "Get this value by running python3 iindbotsetup.py locally",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
